@@ -38,8 +38,8 @@ The second report should tell us **which team members** have some coffee left, a
 ## Examples
 
 | **Input** | **Output** |
-| --- | --- |
-| .-
+| --- | --- | --- | ---  |
+| .-        
 Nakov.Espresso Ricco
 Trifon.Voix de la Terre
 Voix de la Terre-2
@@ -48,7 +48,8 @@ end of info
 Nakov 3
 Trifon 1
 Nakov 2
-end of week | Out of Espresso Ricco
+end of week | 
+              Out of Espresso Ricco
               Coffee Left:
               Voix de la Terre 1
               For:
