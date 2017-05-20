@@ -26,23 +26,21 @@ Until we receive the command “END”, we’ll start receiving non-encrypted me
 After that, we need to sort the sent messages by sender name in ascending order. <br/>
 
 Output<br/>
-
 To send a message, all we have to do is encrypt it and print it on the console in the standard outgoing message format.<br/>
 
 Constraints<br/>
 <ul>
 <li>All valid recipient/sender names will be UPPERCASE and contain only Latin letters</li>
 <li>Messages can contain ANY ASCII characterExamples</li>
+</ul>
 
-Input	<br/>
-
+Input<br/>
 13234<br/>
 TO: GRIM; MESSAGE: hello;<br/>
 TO: ARCHER; MESSAGE: sneak around it;<br/>
 END	<br/>
 
 Output<br/>
-
 UR<#ESFJHV<#OHWTDIH>!vphel#cusvqf#mu><br/>
 UR<#KSLO>$NHUVEHH<#lfonr?<br/>
 
