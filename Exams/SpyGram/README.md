@@ -1,5 +1,3 @@
-# Exams
-
 Problem 2 – SpyGram
 
 After arriving from the trip from the Splinter Trip problem, our hero Sam is feeling a bit jet lagged, but he’s ready to go to work! He needs to receive orders from his commanding officers through the sophisticated messaging app, called SpyGram. The app uses a sophisticated algorithm to encrypt messages. Since you’re tired of jumbling text by hand for 8 hours a day, you decide to write an algorithm to do it for you.<br/>
