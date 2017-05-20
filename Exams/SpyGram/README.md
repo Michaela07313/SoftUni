@@ -16,26 +16,30 @@ hello -> igomq
 •	l gets shifted right by 1 character (we ran out of characters in the private key and rolled over to the start)
 •	o gets shifted right by 2 characters.
 
-Input
+Input<br/>
 The first line of our input consists of our private key.
 Until we receive the command “END”, we’ll start receiving non-encrypted messages to send to the command center. If we receive a message to send, we need to put it in our pending messages collection.
 After that, we need to sort the sent messages by sender name in ascending order. 
 
-Output
+Output<br/>
+
 To send a message, all we have to do is encrypt it and print it on the console in the standard outgoing message format.
 
-Constraints
+Constraints<br/>
+
 •	All valid recipient/sender names will be UPPERCASE and contain only Latin letters
 •	Messages can contain ANY ASCII characterExamples
 
 
-Input	
+Input	<br/>
+
 13234
 TO: GRIM; MESSAGE: hello;
 TO: ARCHER; MESSAGE: sneak around it;
 END	
 
-Output
+Output<br/>
+
 UR<#ESFJHV<#OHWTDIH>!vphel#cusvqf#mu>
 UR<#KSLO>$NHUVEHH<#lfonr?
 

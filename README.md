@@ -1,2 +1,2 @@
 # SoftUni
-Contains different tasks and homeworks
+Programming Fundamentals January 2017 --> C# problems, exams and homeworks
