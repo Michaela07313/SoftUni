@@ -33,15 +33,24 @@ The second report should tell us **which team members** have some coffee left, a
 
 - The **two delimiters** will always be **different** strings
 - The **Coffee Quantity** will be valid integer in the range **[0...2**
-# 31
-**]**
+
 
 ## Examples
 
 | **Input** | **Output** |
 | --- | --- |
-| .-Nakov.Espresso RiccoTrifon.Voix de la TerreVoix de la Terre-2Espresso Ricco-5end of infoNakov 3Trifon 1Nakov 2end of week | Out of Espresso RiccoCoffee Left:Voix de la Terre1For:Trifon Voix de la Terre |
-
-| **Input** | **Output** |
-| --- | --- |
-| BojoSlavSimoBojoBevanda BiancaPeshoBojoConsommeConsommeSlav50ToshkoBojoConsommeRoyalBojoCafe Crema DolceMeriBojoEspresso AmabileAlexBojoEspresso AmabileEspresso AmabileSlav10Bevanda BiancaSlav2Espresso AmabileSlav10Espresso AmabileSlav13RosiBojoEspresso DelicatoEspresso DelicatoSlav5end of infoSimo 1Pesho 20Toshko 2Rosi 3Meri 2Meri 2Alex 5Meri 5Rosi 2end of week | Out of Cafe Crema DolceOut of Espresso DelicatoCoffee Left:Consomme 28Espresso Amabile 19Bevanda Bianca 1For:Simo Bevanda BiancaToshko ConsommePesho ConsommeMeri Espresso AmabileAlex Espresso Amabile |
+| .-
+Nakov.Espresso Ricco
+Trifon.Voix de la Terre
+Voix de la Terre-2
+Espresso Ricco-5
+end of info
+Nakov 3
+Trifon 1
+Nakov 2
+end of week | Out of Espresso Ricco
+            | Coffee Left:
+            | Voix de la Terre 1
+            | For:
+            | Trifon Voix de la Terre 
+            |
