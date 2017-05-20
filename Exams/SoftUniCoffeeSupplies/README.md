@@ -49,8 +49,8 @@ Nakov 3
 Trifon 1
 Nakov 2
 end of week | Out of Espresso Ricco
-            | Coffee Left:
-            | Voix de la Terre 1
-            | For:
-            | Trifon Voix de la Terre 
-            |
+              Coffee Left:
+              Voix de la Terre 1
+              For:
+              Trifon Voix de la Terre 
+            
